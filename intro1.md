@@ -13,3 +13,14 @@ select sysdate() from dual;
 
 select now();
 
+## ORM Benefits
+
+1. Improved Developer's productivity, by avoid boiler-plate code.
+2. Avoid COMMON mistakes, when using ORM
+3. Uses Database Specific Queries (Dialect).
+4. Uses recommended design patterns.
+5. Code need NO EDITING while porting to other database.
+    By changing the configuration file.
+
+
+
