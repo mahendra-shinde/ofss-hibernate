@@ -16,6 +16,9 @@ public class Demo1 {
 			System.out.println(c.getName()+" "+c.getDistrict()+" "+c.getInfo());
 		}
 		
+		dao.updateDistrictName("West Bengali","West Bengal");
+		MySessionFactory.getFactory().close();
+		
 	}
 
 }
