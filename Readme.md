@@ -40,3 +40,4 @@ Sr NO | Description | Link to source
 6 | Uni-Directional One to One Mapping | [demo6](./code-samples/hibernate-demo6/)
 7 | Bi-Directional One to One mapping with Fetch Mode | [demo7](./code-samples/hibernate-demo7/)
 8 | Many to One Mapping with Fetch Mode | [demo8](./code-samples/hibernate-demo8/)
+9 | Many to Many Mapping | [demo9](./code-samples/hibernate-demo9/)
