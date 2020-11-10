@@ -2,21 +2,22 @@
 
 ## Day 1
 
-Introduction ORM
+- Introduction ORM
 	Object Mapping to Relational Databasey
-ORM Frameworks
-Introduction to Hibernate
-HIbernate Architecture
-Hibernate Components
-Built-In Caching 
-Hibernate Mappings (C.R.U.D. Operations)
+- ORM Frameworks
+- Introduction to Hibernate
+- Hibernate Architecture
+- Hibernate Components
+- Built-In Caching 
+- Hibernate Mappings (C.R.U.D. Operations)
 
 
 ## Day 2
-Association Mappings
-CRUD
-Data Access Objects
-HQL
+
+- Association Mappings
+- CRUD
+- Data Access Objects
+- HQL
 
 ## Demos
 
