@@ -29,6 +29,15 @@ loginCredentials.getCustomer()
 2.  Performs CASCADING
 3.  Additional performance overhead (SELECT results in JOIN, Multiple Updates and deletes!)
 
+## Annotations used for Association Mappings
+
+Annotation | Description | Example
+-----------|-------------|----------
+@OneToOne  | Associate One to one association between TWO entities | Customer & LoginCredentials
+@ManyToOne | Associate Many objects of THIS entity with Single object of Target entity | Many accounts to One customer
+@OneToMany | Reverse side of @ManyToOne, It always exists as Bi-Directional | One Customer can have many accounts
+@ManyToMany | Multiple records of THIS entity refers to MUTLIPLE records of Target entity.It's achieved by creating an addition cross-referencing table | One Course can have many students but each student can enroll multiple courses.
+
 ## Hibernate uses 'Fetch Mode'
 
 1.  Default 
